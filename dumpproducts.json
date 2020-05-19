@@ -1,0 +1,10 @@
+{"_id":{"$oid":"5ea718a2baae0fbd7b54d336"},"name":"Nike air max720","price":"250","categories":{"$oid":"5ea2a07643a4c5baba9a04a8"}}
+{"_id":{"$oid":"5ea71960baae0fbd7b54d375"},"name":"Nike air max270","price":"900","categories":{"$oid":"5ea2a11e43a4c5baba9a04c1"}}
+{"_id":{"$oid":"5ea71983baae0fbd7b54d380"},"name":"Adidas neon","price":"850","categories":{"$oid":"5ea2a11e43a4c5baba9a04c1"}}
+{"_id":{"$oid":"5ea719e2baae0fbd7b54d39f"},"name":"Puma enzo2","price":"1200","categories":{"$oid":"5ea2a15f43a4c5baba9a04d3"}}
+{"_id":{"$oid":"5ea71a2dbaae0fbd7b54d3b2"},"name":"Puma-RS-X","price":"15000","categories":{"$oid":"5ea2a17643a4c5baba9a04db"}}
+{"_id":{"$oid":"5ea7e0a04a56000058005993"},"name":"Crocs","price":"2500","categories":{"$oid":"5ea2a15f43a4c5baba9a04d3"}}
+{"_id":{"$oid":"5ea7e0b04a56000058005994"},"name":"Cappa Valenzio","price":"2000","categories":{"$oid":"5ea2a15f43a4c5baba9a04d3"}}
+{"_id":{"$oid":"5ec2fd38a1380000df001935"},"name":"ada","price":"123","categories":{"$oid":"5ea2a11e43a4c5baba9a04c1"}}
+{"_id":{"$oid":"5ec379caa1380000df001937"},"name":"Nike air 900","price":"2000","categories":{"$oid":"5ea2a11e43a4c5baba9a04c1"}}
+{"_id":{"$oid":"5ec38031a1380000df001938"},"name":"Nike jordan","price":"2500","categories":{"$oid":"5ea2a11e43a4c5baba9a04c1"}}
